@@ -3,14 +3,12 @@ Exploratory Data Analysis of Diwali sales data using Python, Pandas, Matplotlib 
 ## Project Visualizations
 
 ### Gender Analysis
-![Gender Analysis]## Project Visualizations
-
-### Gender Analysis
 
 ![Gender Analysis](./images/Screenshot%202026-11-17%20220402.png)
 
 ### Age Group Analysis
-![Age Group Analysis](images/age_analysis.png)
+
+![Age Analysis](./images/age_analysis.png)
 
 ### State-wise Sales Analysis
 ![State Analysis](images/state_analysis.png)
