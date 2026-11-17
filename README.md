@@ -11,7 +11,7 @@ Exploratory Data Analysis of Diwali sales data using Python, Pandas, Matplotlib 
 ![Age Analysis](./images/age_analysis.png.png)
 
 ### State-wise Sales Analysis
-![State Analysis](images/state_analysis.png)
+![State Analysis](images/state_analysis.png.png)
 
 ### Product Analysis
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](images/product_analysis.png.png)
